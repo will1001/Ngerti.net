@@ -1,0 +1,25 @@
+.navbar{
+	width: 100%;
+}
+
+#navbarcolor{
+	background-color: rgba(125,125,125,.5)!important;
+}
+
+#brandName{
+}
+
+.nav-link {
+	color: white!important;
+}
+
+.nav-link:hover {
+	color: black!important;
+	background-color: rgba(255,255,255,.5);
+	transition : 1s;
+}
+
+
+th, td {
+  padding: 15px;
+}
